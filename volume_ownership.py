@@ -64,7 +64,5 @@ def main():
 		
 
 
-# for loop to set the ignore ownership setting
-
 if __name__ == "__main__":
     main()
